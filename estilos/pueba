@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+*{
+	font-family: 'Roboto', sans-serif;
+	margin-left:
+	margin-right:
+	
+}
+}
+p {
+	font-sizw:18px;
+	font-weight:300;
+	margin-top:20px;
+	margin-right:20%;
+	margin-left:20%;
+	text-align:justify;
+    
+
+}
+body{
+	 background: rgb(222, 222, 255);
+	 ackground: rgb(170, 255, 151); 
+	padding:20px;
+	height:100vh;
+	display:flex;
+	justify-content:center
+	align-items:center;
+	
+body p {
+	font-size:30px;
+}
+body footer {
+	background:black;
+}
+<div class="historia"align="justify">
+
+ derechos reservados &copy;2020<br>
+	 diseñado por:javier andres ardila marin <br>
+	 email:ardila156@hotmail.com <br>
+	 <nav>
+	 <a href="#"><img src="imagenes/logos/facebook.png" width="5%"></a>
+	 <a href="#"><img src="imagenes/logos/whatsapp.png"  width="5%"></a>
+	 <a href="#"><img src="imagenes/logos/youtube.png" width="5%"> </a>
+	 </nav>
